@@ -1,4 +1,4 @@
-https://github.com/amkanaut/InventorySystem/blob/main/GIFSystem.gif
+![me](https://github.com/amkanaut/InventorySystem/blob/main/GIFSystem.gif)
 # InventorySystem Program
  Manages inventory of a store, by enabling user modes for Manager and Customer. 
  Able to execute add, remove, search, bubble sort, merge sort, insertion sort, binary and linear search
