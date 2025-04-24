@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BrandedFoodItem
+comment1.params=name\ price\ quantity\ brand
+comment1.target=BrandedFoodItem(java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getBrand()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ toCSV()
+numComments=5

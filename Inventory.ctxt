@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=
+comment2.target=void\ loadFromFile()
+comment3.params=
+comment3.target=void\ saveToFile()
+comment4.params=
+comment4.target=java.util.ArrayList\ getItems()
+comment5.params=
+comment5.target=void\ sortByPrice()
+comment6.params=
+comment6.target=void\ sortByName()
+comment7.params=item
+comment7.target=void\ addItem(FoodItem)
+comment8.params=name
+comment8.target=boolean\ removeItem(java.lang.String)
+comment9.params=name
+comment9.target=FoodItem\ searchItem(java.lang.String)
+numComments=10

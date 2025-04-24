@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InventorySystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=int\ getValidInt(java.util.Scanner)
+comment3.params=scanner\ message
+comment3.target=int\ getValidInt(java.util.Scanner,\ java.lang.String)
+comment4.params=scanner\ message
+comment4.target=double\ getValidDouble(java.util.Scanner,\ java.lang.String)
+numComments=5

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AISortingAndSearchingAdvisor
+comment1.params=inventory
+comment1.target=void\ recommendSortingAlgorithm(Inventory)
+comment10.params=items\ searchTerm
+comment10.target=int\ binarySearch(java.util.ArrayList,\ java.lang.String)
+comment2.params=inventory\ searchTerm
+comment2.target=void\ recommendSearchingAlgorithm(Inventory,\ java.lang.String)
+comment3.params=items
+comment3.target=boolean\ isNearlySorted(java.util.ArrayList)
+comment4.params=items
+comment4.target=boolean\ isSorted(java.util.ArrayList)
+comment5.params=items
+comment5.target=void\ insertionSort(java.util.ArrayList)
+comment6.params=items
+comment6.target=void\ bubbleSort(java.util.ArrayList)
+comment7.params=items\ left\ right
+comment7.target=void\ mergeSort(java.util.ArrayList,\ int,\ int)
+comment8.params=items\ left\ mid\ right
+comment8.target=void\ merge(java.util.ArrayList,\ int,\ int,\ int)
+comment9.params=items\ searchTerm
+comment9.target=void\ linearSearch(java.util.ArrayList,\ java.lang.String)
+numComments=11

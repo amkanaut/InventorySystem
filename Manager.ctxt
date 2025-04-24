@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=inventory
+comment1.target=Manager(Inventory)
+comment2.params=scanner
+comment2.target=void\ displayMenu(java.util.Scanner)
+comment3.params=scanner
+comment3.target=void\ binarySearch(java.util.Scanner)
+comment4.params=scanner
+comment4.target=void\ linearSearch(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ addItem(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ removeItem(java.util.Scanner)
+numComments=7

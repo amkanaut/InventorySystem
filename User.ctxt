@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=inventory
+comment1.target=User(Inventory)
+comment2.params=scanner
+comment2.target=void\ displayMenu(java.util.Scanner)
+comment3.params=scanner
+comment3.target=void\ searchItem(java.util.Scanner)
+comment4.params=
+comment4.target=void\ viewAllItems()
+numComments=5
